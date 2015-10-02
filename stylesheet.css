@@ -1,0 +1,29 @@
+.container {
+  width: 50%;
+  margin: 20px auto;
+}
+
+.title {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+.movie {
+  border: 1px solid black;
+  padding: 20px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  margin: 10px 0;
+}
+
+.poster-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.plot {
+  max-width: 50%;
+}
